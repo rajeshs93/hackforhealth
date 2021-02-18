@@ -27,7 +27,7 @@ const Experience = () => {
                     <br />
                     <strong>Health:</strong> Here is all about to make you healthy
                     <br />
-                    <strong>Happiness:</strong> We will make you happy day to day life
+                    <strong>Happinessssssssss:</strong> We will make you happy day to day life
                     <br/>
                     
                   </Card.Text>
